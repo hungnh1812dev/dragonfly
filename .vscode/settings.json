@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "terminal.integrated.defaultProfile.windows": "Bash",
+  "blueprint.templatesPath": ["./.vscode/blueprint-templates"],
+  "editor.tabSize": 2
+}
